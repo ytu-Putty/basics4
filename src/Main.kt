@@ -20,7 +20,7 @@ fun main()
         {
             if (second ==0.0)
             {
-                println("Ошибка! на ноль делить нельзя")
+                println("Ошибка! на ноль делить нельзя!")
             }
             else first / second
         }
