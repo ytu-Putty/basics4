@@ -24,7 +24,7 @@ fun main()
             }
             else first / second
         }
-        else -> "Нет решения!"
+        else -> "Нет решения"
     }
     println(result)
 }
