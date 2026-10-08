@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main()
 {
-    println("Введите операнд1 операнд2 и операцию через пробелы")
+    println("Введите операнд1 операнд2 и операцию через пробелы:")
     val strings = readln().split(" ")
     val first = strings[0].toDoubleOrNull()
     val second = strings[1].toDoubleOrNull()
